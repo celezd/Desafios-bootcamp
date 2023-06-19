@@ -1,0 +1,18 @@
+commit 11e5b77febf8dd3bf1190b04ae94dd8502e93e6a (HEAD -> main)
+Author: Celeste Dominguez <dominguezmceleste@gmail.com>
+Date:   Mon Jun 19 20:01:19 2023 -0300
+
+    Agrega log actual del proyecto log.txt
+
+commit 0312736887dda477cec302abaa06e243f11d64ca
+Author: Celeste Dominguez <dominguezmceleste@gmail.com>
+Date:   Mon Jun 19 19:55:37 2023 -0300
+
+    agrega index.html
+
+commit 0fdc25ec48e9276120ab10324ddfd14101b7effa
+Author: Celeste Dominguez <dominguezmceleste@gmail.com>
+Date:   Mon Jun 19 19:50:11 2023 -0300
+
+    primer commit
+
